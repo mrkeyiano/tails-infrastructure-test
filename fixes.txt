@@ -1,0 +1,7 @@
+- corrected inconsistent variable naming convention
+- added parameterized query support to protect against SQLite injection
+- add try except statement to catch runtime exceptions when command doesnt exist
+- used a lighter debian base image for the dockerfile
+- exposed the port (7777) for flask
+- passed the --host parameter to enable external access to the flask application
+- commented out unused python packages to speed up build time
