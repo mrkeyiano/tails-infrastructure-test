@@ -19,7 +19,7 @@ Your first assignment is to help Fido, a junior developer at Tails.com. Fido pic
 - corrected inconsistent variable naming convention in `app.py`
 - added parameterized query support to protect against SQLite injection `app.py` 
 - added try except statement to catch runtime exceptions when input command doesnt exist `app.py`
-- used a lighter debian base image for the dockerfile `Dockerfile` this shoukd reduce build time significantly
+- used a lighter debian base image for the dockerfile `Dockerfile` this should reduce build time significantly
 - exposed the port (7777) for flask
 - passed the --host parameter to enable external access to the flask application, this answers your question on `why it doesnt work in docker`
 - commented out unused python packages to reduce build time
