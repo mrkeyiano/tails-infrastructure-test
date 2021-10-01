@@ -38,10 +38,10 @@ Your first assignment is to help Fido, a junior developer at Tails.com. Fido pic
 
 - q: What part did you find the hardest? What part are you most proud of? In both cases, why?
 
-  a: the sqlite security part reminded me of how important it is to reveiw code for security vulnerabilies and i love fixing bugs and loopholes
+  a: the sqlite security part reminded me of how important it is to reveiw code for security vulnerabilities & I love fixing bugs and loopholes
 
 
 - q: What is one thing we could do to improve this test?
 
-  a: add commands to the wag_or_not.sqlite file 
+  a: add commands to the `wag_or_not.sqlite` file 
 
